@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.wrapper {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+header {
+    min-height: 56px;
+    background: #e0e0e0;
+}
